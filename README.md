@@ -62,7 +62,7 @@ If you know setup tutorials, links to themes etc please contact us.
 ## Developers
 
 WebSVN has been originally developed by Tim Armes.<br />
-It is now maintained by @dirk-thomas and @quinntaylor.
+It is now maintained by [@dirk-thomas](https://github.com/dirk-thomas) and [@quinntaylor](https://github.com/quinntaylor).
 
 ## License
 
